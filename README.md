@@ -4,7 +4,7 @@
 🌱 I'm currently learning Backend Development and advanced Data Structures in C++. <br />
 ✨ Ask me about React, Javascript or DSA. <br /><br />
 
-**🌐 Connect with me:** <br />
+**🌐 Connect with me:** <br /> <br />
 <a href="https://www.linkedin.com/in/akshat-aggarwal-27aba9203/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
  </a> 
