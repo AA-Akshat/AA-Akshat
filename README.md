@@ -1,4 +1,4 @@
-#  Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="10px"> I'm Akshat
+#  Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="2px"> I'm Akshat
 
 🎓 I'm an IT engineering sophomore at NSUT, Delhi. <br />
 🌱 I'm currently learning Backend Development and advanced Data Structures in C++. <br />
